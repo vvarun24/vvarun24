@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Working on Javascript and Sharepoint.<br>I'm currently learning Sharepoint Framework(SPFX) and Java
+I'm currently Working on Javascript and Sharepoint.<br> and learning Sharepoint Framework(SPFX) and Java
 
 
 # 💻 Tech Stack:
@@ -12,4 +12,4 @@ I'm currently Working on Javascript and Sharepoint.<br>I'm currently learning Sh
 ---
 [![](https://visitcount.itsvg.in/api?id=vvarun24&icon=0&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
