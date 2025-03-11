@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Working on Javascript and Sharepoint.<br> and learning Sharepoint Framework(SPFX) and Java
+I'm currently Working on Sharepoint Framework(SPFX) ReactJS and Sharepoint.<br> and previously worked on AngularJS, Inoic Framework and Xcode.
 
 
 # 💻 Tech Stack:
